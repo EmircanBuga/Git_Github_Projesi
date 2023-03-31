@@ -1,0 +1,1 @@
+print("dosyamı veya kodlarımı uzak github'a ekleyeceğim")
